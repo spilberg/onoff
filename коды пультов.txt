@@ -1,0 +1,9 @@
+
+Gold star
+NEC
+AV/TV = 20DFD02F
+Power on/off = 20DF10EF
+
+volia 
+Power on/off = 41000FF
+Mute on/off = 41020DF
